@@ -1,8 +1,12 @@
 What is CampusConnect?
 CampusConnect is a student-friendly campus dashboard that allows students to easily view the latest notices, check exam updates, and access shared study resources from a single platform. It is designed to improve productivity and reduce confusion by presenting all important campus information in one place. The platform focuses on clarity, simplicity, and practical usability so that students never miss important updates again.
+
 Live link: https://nikita210207.github.io/Campus/
+
 Why This Project Matters
+
 In most colleges, important information is scattered across multiple platforms such as emails, WhatsApp groups, and physical notice boards. This makes it difficult for students to stay organized and often leads to missed or outdated information. CampusConnect addresses this problem by providing a single, centralized hub where students can stay updated with official announcements, prepare in advance for exams, and quickly access useful study materials. It is not just a project, but a practical tool designed for real student needs.
+
 Key Features
 Notices: View all important college notices in one clean and organized interface
 Exams: Access upcoming exam dates and related details at a glance
